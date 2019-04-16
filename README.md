@@ -1,2 +1,2 @@
-# CA_Design_Resources
+# CA Design Resources
 This Repo is a place to store resources, including design, curriculum, surveys etc.
